@@ -11,13 +11,13 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5215625775955", 'Monovan', true], //Richetti
-["5215625775955"], 
-["5215625775955"], 
-["5215625775955"], 
-["5215625775955"],
-["5217298724948"],
-["5215625768269"]]
+["5219833708861", 'ALIEN BOT', true], //ALIEN BOT
+["5219833708861"], 
+["5219833708861"], 
+["5219833708861"], 
+["5219833708861"],
+["5219833708861"],
+["5219833708861"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -103,26 +103,26 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["5215625775955", 'MonkeyBot', 1], 
-["5215625775955", 'MonkeyBot', 1],  
-["5215625775955", 'MonkeyBot', 1],
-["5217298724948", 'MonkeyBot', 1],
-["5215625768269", 'MonkeyBot', 1]]
+["5219833708861", 'ALIEN BOT', 1], 
+["5219833708861", 'ALIEN BOT', 1],  
+["5219833708861", 'ALIEN BOT', 1],
+["5219833708861", 'ALIEN BOT', 1],
+["5219833708861", 'ALIEN BOT', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MonkeyBot el mejor bot de whatsapp' //agrega una descripción corta
 global.desc2 = 'MonkeyBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "MonkeyBot"
-global.author = "MonkeyBot"
+global.packname = "ALIEN BOT"
+global.author = "ALIEN BOT"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
-global.gt = "MonkeyBot"
+global.gt = "ALIEN BOT"
 global.yt = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
 global.yt2 = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
 global.ig = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
@@ -143,7 +143,7 @@ global.nnnttt3 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 8 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //A.T.M.M
 global.paypal = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb'
-global.asistencia = 'Wa.me/525625768269' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/529833708861' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
