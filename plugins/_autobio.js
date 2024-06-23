@@ -8,7 +8,7 @@ if (process.send) { process.send('uptime')
 _muptime = await new Promise(resolve => { process.once('message', resolve) 
 setTimeout(resolve, 2000) }) * 1000}
 let uptime = clockString(_uptime)
-let bio = `${global.packname} ║ ✅ ᴇsᴛᴇ ʙᴏᴛ ᴇs ᴄʀᴇᴀᴅᴏ ᴘᴏʀ ᴍᴏɴᴏᴠᴀɴ ʏ ᴇsᴛᴇ ᴇs ᴇʟ ᴛɪᴇᴍᴘᴏ ϙᴜᴇ ʟʟᴇᴠᴀ ᴀᴄᴛɪᴠᴏ ᴇʟ ʙᴏᴛ  ${uptime} ⌛ ║ ᴍᴏɴᴋᴇʏ ʙᴏᴛ ᴘʀᴏɢʀᴀᴍᴀᴅᴏʀ ʏ ᴅɪsᴇɴ̃ᴀᴅᴏʀ ᴡᴇʙ sɪ ɢᴜsᴛᴀs ᴛᴜ ᴘʀᴏᴘɪᴏ ʙᴏᴛ ᴘᴇʀsᴏɴᴀʟɪᴢᴀᴅᴏ ᴏ ᴘᴀʀᴀ ᴛᴜ ɢʀᴜᴘᴏ ᴇsᴄʀɪʙᴇ ᴀ +52 56 4384 9319 ᴏ ‪+52 729 872 4948`
+let bio = `${global.packname} ║ ✅ᴇsᴛᴇ ᴇs ᴇʟ ᴛɪᴇᴍᴘᴏ ϙᴜᴇ ʟʟᴇᴠᴀ ᴀᴄᴛɪᴠᴏ ᴇʟ ʙᴏᴛ  ${uptime} ⌛ ║  sɪ ɢᴜsᴛᴀs ᴛᴜ ᴘʀᴏᴘɪᴏ ʙᴏᴛ ᴘᴇʀsᴏɴᴀʟɪᴢᴀᴅᴏ ᴏ ᴘᴀʀᴀ ᴛᴜ ɢʀᴜᴘᴏ ᴇsᴄʀɪʙᴇ ᴀ +57 304 4596953`
 await this.updateProfileStatus(bio).catch(_ => _)
 setting.status = new Date() * 1
 } 
